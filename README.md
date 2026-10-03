@@ -1,72 +1,36 @@
 <div align="center">
 
-# 🚀 NXTWAVE
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:06b6d4&height=220&section=header&text=N%20X%20T%20W%20A%20V%20E&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20LEVEL%20UP&descAlignY=58&descSize=18" width="100%"/>
 
-### ✨ My Learning Journey — From Learning to Building
+# 🌊 NXTWAVE
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=200&section=header&text=NXTWAVE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Learn%20%7C%20Build%20%7C%20Grow&descAlignY=55&descSize=20" width="100%"/>
+### `PLAYER 01` • `DEVELOPER JOURNEY`
 
-<p>
-  <b>📚 Learning</b> &nbsp; • &nbsp;
-  <b>💻 Building</b> &nbsp; • &nbsp;
-  <b>🚀 Growing</b>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Learning+%E2%86%92+Practicing+%E2%86%92+Building;Every+skill+starts+at+LEVEL+1;Turning+knowledge+into+real+projects;Welcome+to+my+NXTWAVE+%F0%9F%9A%80" />
 
-</div>
+<br>
 
----
-
-## 🌊 What is NXTWAVE?
-
-**NXTWAVE** is my personal learning repository where I document my journey of learning, practicing, experimenting, and building projects.
-
-Instead of just learning concepts, the goal is simple:
-
-> **Learn something → Practice it → Build something → Keep improving.**
-
-This repository will grow alongside my skills. 🚀
-
----
-
-# 📚 Growth Cycle 1
-
-## 🌐 Build Your Own Static Website
-
-My first learning cycle focuses on understanding the **fundamentals of web development** by building a static website from scratch.
-
-<div align="center">
-
-### 🧠 Learn → 🛠️ Practice → 🎨 Build → 🚀 Improve
+![GitHub](https://img.shields.io/badge/GitHub-Developer-111827?style=for-the-badge&logo=github)
+![Learning](https://img.shields.io/badge/Status-Learning-06b6d4?style=for-the-badge)
+![Growth Cycle](https://img.shields.io/badge/Growth%20Cycle-01-2563eb?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🎯 What I'm Learning
-
-| Topic | What I'm Exploring |
-|---|---|
-| 🟠 HTML | Structure and content of web pages |
-| 🔵 CSS | Styling, layouts, colors and design |
-| 🎨 Web Design | Creating clean and attractive interfaces |
-| 🧩 Components | Understanding how webpages are structured |
-| 📱 Responsive Design | Making websites work across different screens |
-| 💻 Practice | Turning concepts into working webpages |
-
----
-
-## 🗂️ Learning Structure
+# 🎮 PLAYER PROFILE
 
 ```text
-NXTWAVE
-│
-└── 📚 Growth Cycle 1
-    │
-    └── 🌐 1. Build Your Own Static Website
-        │
-        ├── 📖 1. CheatSheets
-        │   ├── 📄 Introduction to HTML Cheatsheet.pdf
-        │   └── 📄 Introduction CSS Part 1.pdf
-        │
-        └── 🛠️ 2. Practice
-            └── 🌐 index.html
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║                 👨‍💻 PLAYER 01                            ║
+║                                                          ║
+║   CLASS        : Developer                              ║
+║   MODE         : Learning                              ║
+║   CURRENT LVL  : 01                                    ║
+║   STATUS       : 🟢 ONLINE                             ║
+║                                                          ║
+║   🎯 MAIN OBJECTIVE                                     ║
+║   Learn → Practice → Build → Improve                    ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
