@@ -55,18 +55,26 @@ My first learning cycle focuses on understanding the **fundamentals of web devel
 
 ---
 
+
 ## 🗂️ Learning Structure
 
 ```text
 NXTWAVE
 │
-└── 📚 Growth Cycle 1
-    │
-    └── 🌐 1. Build Your Own Static Website
-        │
-        ├── 📖 1. CheatSheets
-        │   ├── 📄 Introduction to HTML Cheatsheet.pdf
-        │   └── 📄 Introduction CSS Part 1.pdf
-        │
-        └── 🛠️ 2. Practice
-            └── 🌐 index.html
+├── 📚 Growth Cycle 1
+│   │
+│   ├── 🌐 1. Build Your Own Static Website
+│   │   │
+│   │   ├── 📖 1. CheatSheets
+│   │   │   ├── 📄 1. Introduction to HTML Cheatsheet.pdf
+│   │   │   ├── 📄 2. Introduction CSS Part 1.pdf
+│   │   │   ├── 📄 3. Introduction CSS Part 2.pdf
+│   │   │   └── 📄 4. Introduction to CSS Box Model Part 1.pdf
+│   │   │
+│   │   └── 🛠️ 2. Practice
+│   │       └── 🌐 index.html
+│   │
+│   └── 📱 2. Build Your Own Responsive Website
+│
+└── 📄 README.md
+```
