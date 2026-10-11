@@ -70,7 +70,8 @@ NXTWAVE
 │   │   │   ├── 4. Introduction to CSS Box Model Part 1.pdf
 │   │   │   ├── 5. Introduction to CSS Box Model Part 2.pdf
 │   │   │   ├── 6. Introduction to Bootstrap Part 1.pdf
-│   │   │   └── 7. Introduction to Bootstrap Part 2.pdf
+│   │   │   ├── 7. Introduction to Bootstrap Part 2.pdf
+│   │   │   └── 8. HTML Elements .pdf
 │   │   └── 2. Practice
 │   │       ├── 1. Todo List
 │   │       │   ├── index.html
