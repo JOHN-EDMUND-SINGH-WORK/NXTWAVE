@@ -58,52 +58,44 @@ My first learning cycle focuses on understanding the **fundamentals of web devel
 
 ## 🗂️ Learning Structure
 
+<!-- TREE_START -->
 ```text
 NXTWAVE
-│
-├── 📄 Important Code Snippets.txt
-│
-├── 📚 Growth Cycle 1
-│   │
-│   ├── 🌐 1. Build Your Own Static Website
-│   │   │
-│   │   ├── 📖 1. CheatSheets
-│   │   │   ├── 📄 1. Introduction to HTML Cheatsheet.pdf
-│   │   │   ├── 📄 2. Introduction CSS Part 1.pdf
-│   │   │   ├── 📄 3. Introduction CSS Part 2.pdf
-│   │   │   ├── 📄 4. Introduction to CSS Box Model Part 1.pdf
-│   │   │   ├── 📄 5. Introduction to CSS Box Model Part 2.pdf
-│   │   │   ├── 📄 6. Introduction to Bootstrap Part 1.pdf
-│   │   │   └── 📄 7. Introduction to Bootstrap Part 2.pdf
-│   │   │
-│   │   └── 🛠️ 2. Practice
-│   │       │
-│   │       ├── 📝 1. Todo List
+├── Growth Cycle 1
+│   ├── 1. Build Your Own Static Website
+│   │   ├── 1. CheatSheets
+│   │   │   ├── 1. Introduction to HTML Cheatsheet.pdf
+│   │   │   ├── 2. Introduction CSS Part 1.pdf
+│   │   │   ├── 3. Introduction CSS Part 2.pdf
+│   │   │   ├── 4. Introduction to CSS Box Model Part 1.pdf
+│   │   │   ├── 5. Introduction to CSS Box Model Part 2.pdf
+│   │   │   ├── 6. Introduction to Bootstrap Part 1.pdf
+│   │   │   └── 7. Introduction to Bootstrap Part 2.pdf
+│   │   └── 2. Practice
+│   │       ├── 1. Todo List
 │   │       │   ├── index.html
-│   │       │   ├── style.css
-│   │       │   └── Output.png
-│   │       │
-│   │       ├── 💬 2. Chat Page
+│   │       │   ├── Output.png
+│   │       │   └── style.css
+│   │       ├── 2. Chat Page
 │   │       │   ├── index.html
-│   │       │   ├── style.css
-│   │       │   └── Output.png
-│   │       │
-│   │       ├── 💻 3. Coding Cover Page
+│   │       │   ├── Output.png
+│   │       │   └── style.css
+│   │       ├── 3. Coding Cover Page
 │   │       │   ├── 1. Coding Cover Page.pdf
 │   │       │   ├── index.html
 │   │       │   └── style.css
-│   │       │
-│   │       └── 🍔 4. Food Cover Page
+│   │       └── 4. Food Cover Page
 │   │           ├── 1. Food Order Page.pdf
 │   │           ├── index.html
 │   │           └── style.css
-│   │
-│   └── 📱 2. Build Your Own Responsive Website
-│       │
-│       └── 📖 1. CheatSheets
-│           └── 📄 1. Bootstrap Grid System.pdf
-│
-└── 📄 README.md
+│   └── 2. Build Your Own Responsive Website
+│       └── 1. CheatSheets
+│           └── 1. Bootstrap Grid System.pdf
+├── generate_tree.py
+├── Important Code Snippets.txt
+└── README.md
 ```
+<!-- TREE_END -->
 
-**Note:** This tree reflects the current structure you shared. As you add more files or learning cycles, update this section to keep it in sync.
+**✨ Automatically maintained:** This folder tree is updated by GitHub Actions whenever changes are pushed to the repository.
+
