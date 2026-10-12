@@ -97,6 +97,14 @@ NXTWAVE
 │   └── 2. Python
 │       └── 1. CheatSheets
 │           ├── 1. Programming with Python  Cheat Sheet.pdf
+│           ├── 2. Variables and Data Types  Cheat Sheet.pdf
+│           ├── 3. Sequence of Instructions  Cheat Sheet.pdf
+│           ├── 4. Input and Output Basics  Cheat Sheet.pdf
+│           ├── 5. Type Conversions  Cheat Sheet.pdf
+│           ├── 6. Relational Operators  Cheat Sheet.pdf
+│           ├── 7. Logical Operators  Cheat Sheet.pdf
+│           ├── 8. Conditional Statements  Cheat Sheet.pdf
+│           ├── 9. Problem Solving and Debugging Sheet.pdf
 │           ├── 10. Nested Conditional Statements Cheat Sheet.pdf
 │           ├── 11. Loops  Cheat Sheet.pdf
 │           ├── 12. loops.pdf
@@ -107,19 +115,11 @@ NXTWAVE
 │           ├── 17. Problem Solving .pdf
 │           ├── 18. Loop Control Statements.pdf
 │           ├── 19.Comparing Strings & Naming Variables.pdf
-│           ├── 2. Variables and Data Types  Cheat Sheet.pdf
 │           ├── 20.Comparing Strings and Naming Variables.pdf
 │           ├── 21.Comparing Strings and Naming Variables.pdf
 │           ├── 22. Lists.pdf
 │           ├── 23.Lists and Strings.pdf
-│           ├── 24. Functions.pdf
-│           ├── 3. Sequence of Instructions  Cheat Sheet.pdf
-│           ├── 4. Input and Output Basics  Cheat Sheet.pdf
-│           ├── 5. Type Conversions  Cheat Sheet.pdf
-│           ├── 6. Relational Operators  Cheat Sheet.pdf
-│           ├── 7. Logical Operators  Cheat Sheet.pdf
-│           ├── 8. Conditional Statements  Cheat Sheet.pdf
-│           └── 9. Problem Solving and Debugging Sheet.pdf
+│           └── 24. Functions.pdf
 ├── generate_tree.py
 ├── Important Code Snippets.txt
 └── README.md

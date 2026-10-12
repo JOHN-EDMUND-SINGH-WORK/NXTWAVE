@@ -21,7 +21,13 @@ IGNORED = {
 def build_tree(folder: Path, prefix: str = "") -> list[str]:
     items = sorted(
         [item for item in folder.iterdir() if item.name not in IGNORED],
-        key=lambda item: (item.is_file(), item.name.lower()),
+        key=lambda item: (
+        item.is_file(),
+        int(item.name.split(".", 1)[0])
+        if item.name.split(".", 1)[0].isdigit()
+        else float("inf"),
+        item.name.lower(),
+),
     )
 
     lines = []
