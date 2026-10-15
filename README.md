@@ -121,6 +121,9 @@ NXTWAVE
 │       │   ├── 23.Lists and Strings.pdf
 │       │   └── 24. Functions.pdf
 │       └── 2. Practice
+│           ├── 1. Nested_List.py
+│           ├── 2. List_max_values.py
+│           ├── 3. Accessing_list.py
 │           └── README.md
 ├── generate_tree.py
 ├── Important Code Snippets.txt
